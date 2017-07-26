@@ -9,5 +9,6 @@
 | #    | 表示书签 | %23 |
 | &    | URL 中指定的参数间的分隔符 | %26 |
 | =    | URL 中指定参数的值 | %3D |
+
 [more characters](http://krypted.com/utilities/html-encoding-reference/)
 
